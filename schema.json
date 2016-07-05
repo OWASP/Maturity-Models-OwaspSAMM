@@ -5,7 +5,7 @@
   "SM.2.A"   :{ "domain" : "Governance", "practice" : "Strategy & Metrics", "level" :"2", "activity" : "Are many of your applications and resources categorized by risk?"                               },
   "SM.2.B"   :{ "domain" : "Governance", "practice" : "Strategy & Metrics", "level" :"2", "activity" : "Are risk ratings used to tailor the required assurance activities?"                             },
   "SM.2.C"   :{ "domain" : "Governance", "practice" : "Strategy & Metrics", "level" :"2", "activity" : "Does the organization know about what’s required based on risk ratings?"                        },
-  "SM.3.A"   :{ "domain" : "Governance", "practice" : "Strategy & Metrics", "level" :"3", "activity" : "Does the organization know about what’s required based on risk ratings?"                        },
+  "SM.3.A"   :{ "domain" : "Governance", "practice" : "Strategy & Metrics", "level" :"3", "activity" : "Is per-project data for the cost of assurance activities collected?"                        },
   "SM.3.B"   :{ "domain" : "Governance", "practice" : "Strategy & Metrics", "level" :"3", "activity" : "Does your organization regularly compare your security spend with that of other organizations?" },
 
   "PC.1.A"   :{ "domain" : "Governance", "practice" : "Policy & Compliance", "level" :"1", "activity" : "Do project stakeholders know their project’s compliance status?"                                   },
