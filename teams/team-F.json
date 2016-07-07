@@ -84,9 +84,9 @@
       "OE.1.A": "Yes",
       "OE.1.B": "Yes",
       "OE.2.A": "Yes",
-      "OE.2.B": "",
-      "OE.3.A": "NA",
-      "OE.3.B": "No"
+      "OE.2.B": "Maybe",
+      "OE.3.A": "Maybe",
+      "OE.3.B": "Maybe"
     }
   }
 }
