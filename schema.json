@@ -17,7 +17,7 @@
     "Secure Architecture"            : { "key": "SA"   , "activities": [ "SA.1.A"  , "SA.1.B"  , "SA.2.A"  , "SA.2.B"  , "SA.3.A"  , "SA.3.B"                         ]},
 
     "Design Review"                  : { "key": "DR"   , "activities": [ "DR.1.A"  , "DR.1.B"  , "DR.2.A"  , "DR.2.B"  , "DR.3.A"  , "DR.3.B"                         ]},
-    "Implementation Review"          : { "key": "IR"   , "activities": [ "IR.1.A"  , "IR.1.B"  , "IR.2.A"  , "IR.1.B"  , "IR.3.A"  , "IR.3.B"                         ]},
+    "Implementation Review"          : { "key": "IR"   , "activities": [ "IR.1.A"  , "IR.1.B"  , "IR.2.A"  , "IR.2.B"  , "IR.3.A"  , "IR.3.B"                         ]},
     "Security Testing"               : { "key": "ST"   , "activities": [ "ST.1.A"  , "ST.1.B"  , "ST.1.C"  , "ST.2.A"  , "ST.2.B"  , "ST.3.A"  , "ST.3.B"             ]},
 
     "Issue Management"               : { "key": "IM"   , "activities": [ "IM.1.A"  , "IM.1.B"  , "IM.1.C"  , "IM.2.A"  , "IM.2.B"  , "IM.3.A"  , "IM.3.B"             ]},
