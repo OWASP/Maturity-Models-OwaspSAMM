@@ -63,6 +63,7 @@
     "SR.2.B"   :{ "level" :"2", "name" : "Do project teams specify requirements based on feedback from other security activities?"                                     },
     "SR.3.A"   :{ "level" :"3", "name" : "Do stakeholders review vendor agreements for security requirements?"                                                         },
     "SR.3.B"   :{ "level" :"3", "name" : "Are audits performed against the security requirements specified by project teams?"                                          },
+
     "SA.1.A"   :{ "level" :"1", "name" : "Are project teams provided with a list of recommended third-party components?"                                               },
     "SA.1.B"   :{ "level" :"1", "name" : "Are project teams aware of secure design principles and do they apply them consistently?"                                    },
     "SA.2.A"   :{ "level" :"2", "name" : "Do you advertise shared security services with guidance for project teams?"                                                  },
