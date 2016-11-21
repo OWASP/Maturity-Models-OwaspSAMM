@@ -3,82 +3,317 @@
     "team": "SAMM - team F"
   },
   "activities": {
-    "SM.1.A": "Yes",
-    "SM.1.B": "Yes",
-    "SM.1.C": "No",
-    "SM.2.A": "No",
-    "SM.2.B": "Yes",
-    "SM.2.C": "Yes",
-    "SM.3.A": "NA",
-    "SM.3.B": "Maybe",
-    "PC.1.A": "Maybe",
-    "PC.1.B": "Maybe",
-    "PC.2.A": "Yes",
-    "PC.2.B": "No",
-    "PC.3.A": "No",
-    "PC.3.B": "No",
-    "EG.1.A": "Yes",
-    "EG.1.B": "Yes",
-    "EG.2.A": "No",
-    "EG.2.B": "No",
-    "EG.3.A": "Maybe",
-    "EG.3.B": "Yes",
-    "TA.1.A": "Yes",
-    "TA.1.B": "Yes",
-    "TA.2.A": "No",
-    "TA.2.B": "No",
-    "TA.2.C": "Yes",
-    "TA.3.A": "No",
-    "TA.3.B": "No",
-    "SR.1.A": "",
-    "SR.1.B": "Yes",
-    "SR.2.A": "Yes",
-    "SR.2.B": "No",
-    "SR.3.A": "No",
-    "SR.3.B": "No",
-    "SA.1.A": "Maybe",
-    "SA.1.B": "Maybe",
-    "SA.2.A": "Yes",
-    "SA.2.B": "No",
-    "SA.3.A": "No",
-    "SA.3.B": "Yes",
-    "DR.1.A": "Yes",
-    "DR.1.B": "Yes",
-    "DR.2.A": "No",
-    "DR.2.B": "No",
-    "DR.3.A": "Maybe",
-    "DR.3.B": "NA",
-    "IR.1.A": "Yes",
-    "IR.1.B": "Yes",
-    "IR.2.A": "NA",
-    "IR.2.B": "NA",
-    "IR.3.A": "",
-    "IR.3.B": "Yes",
-    "ST.1.A": "Yes",
-    "ST.1.B": "Yes",
-    "ST.1.C": "No",
-    "ST.2.A": "No",
-    "ST.2.B": "No",
-    "ST.3.A": "No",
-    "ST.3.B": "Yes",
-    "IM.1.A": "Yes",
-    "IM.1.B": "No",
-    "IM.1.C": "No",
-    "IM.2.B": "No",
-    "IM.2.C": "No",
-    "IM.3.A": "No",
-    "IM.3.B": "No",
-    "EH.1.A": "Yes",
-    "EH.1.B": "Yes",
-    "EH.2.A": "No",
-    "EH.2.B": "No",
-    "EH.3.A": "Yes",
-    "EH.3.B": "No",
-    "OE.1.A": "Yes",
-    "OE.1.B": "Yes",
-    "OE.2.A": "Yes",
-    "OE.2.B": "Maybe",
-    "OE.3.A": "Maybe",
-    "OE.3.B": "Yes"
+    "SM.1.A": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "SM.1.B": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "SM.1.C": {
+      "value": "No",
+      "proof": ""
+    },
+    "SM.2.A": {
+      "value": "No",
+      "proof": ""
+    },
+    "SM.2.B": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "SM.2.C": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "SM.3.A": {
+      "value": "NA",
+      "proof": ""
+    },
+    "SM.3.B": {
+      "value": "Maybe",
+      "proof": ""
+    },
+    "PC.1.A": {
+      "value": "Maybe",
+      "proof": ""
+    },
+    "PC.1.B": {
+      "value": "Maybe",
+      "proof": ""
+    },
+    "PC.2.A": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "PC.2.B": {
+      "value": "No",
+      "proof": ""
+    },
+    "PC.3.A": {
+      "value": "No",
+      "proof": ""
+    },
+    "PC.3.B": {
+      "value": "No",
+      "proof": ""
+    },
+    "EG.1.A": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "EG.1.B": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "EG.2.A": {
+      "value": "No",
+      "proof": ""
+    },
+    "EG.2.B": {
+      "value": "No",
+      "proof": ""
+    },
+    "EG.3.A": {
+      "value": "Maybe",
+      "proof": ""
+    },
+    "EG.3.B": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "TA.1.A": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "TA.1.B": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "TA.2.A": {
+      "value": "No",
+      "proof": ""
+    },
+    "TA.2.B": {
+      "value": "No",
+      "proof": ""
+    },
+    "TA.2.C": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "TA.3.A": {
+      "value": "No",
+      "proof": ""
+    },
+    "TA.3.B": {
+      "value": "No",
+      "proof": ""
+    },
+    "SR.1.A": {
+      "value": "",
+      "proof": ""
+    },
+    "SR.1.B": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "SR.2.A": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "SR.2.B": {
+      "value": "No",
+      "proof": ""
+    },
+    "SR.3.A": {
+      "value": "No",
+      "proof": ""
+    },
+    "SR.3.B": {
+      "value": "No",
+      "proof": ""
+    },
+    "SA.1.A": {
+      "value": "Maybe",
+      "proof": ""
+    },
+    "SA.1.B": {
+      "value": "Maybe",
+      "proof": ""
+    },
+    "SA.2.A": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "SA.2.B": {
+      "value": "No",
+      "proof": ""
+    },
+    "SA.3.A": {
+      "value": "No",
+      "proof": ""
+    },
+    "SA.3.B": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "DR.1.A": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "DR.1.B": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "DR.2.A": {
+      "value": "No",
+      "proof": ""
+    },
+    "DR.2.B": {
+      "value": "No",
+      "proof": ""
+    },
+    "DR.3.A": {
+      "value": "Maybe",
+      "proof": ""
+    },
+    "DR.3.B": {
+      "value": "NA",
+      "proof": ""
+    },
+    "IR.1.A": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "IR.1.B": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "IR.2.A": {
+      "value": "NA",
+      "proof": ""
+    },
+    "IR.2.B": {
+      "value": "NA",
+      "proof": ""
+    },
+    "IR.3.A": {
+      "value": "",
+      "proof": ""
+    },
+    "IR.3.B": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "ST.1.A": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "ST.1.B": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "ST.1.C": {
+      "value": "No",
+      "proof": ""
+    },
+    "ST.2.A": {
+      "value": "No",
+      "proof": ""
+    },
+    "ST.2.B": {
+      "value": "No",
+      "proof": ""
+    },
+    "ST.3.A": {
+      "value": "No",
+      "proof": ""
+    },
+    "ST.3.B": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "IM.1.A": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "IM.1.B": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "IM.1.C": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "IM.2.B": {
+      "value": "No",
+      "proof": ""
+    },
+    "IM.2.C": {
+      "value": "No",
+      "proof": ""
+    },
+    "IM.3.A": {
+      "value": "No",
+      "proof": ""
+    },
+    "IM.3.B": {
+      "value": "No",
+      "proof": ""
+    },
+    "EH.1.A": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "EH.1.B": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "EH.2.A": {
+      "value": "No",
+      "proof": ""
+    },
+    "EH.2.B": {
+      "value": "No",
+      "proof": ""
+    },
+    "EH.3.A": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "EH.3.B": {
+      "value": "No",
+      "proof": ""
+    },
+    "OE.1.A": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "OE.1.B": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "OE.2.A": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "OE.2.B": {
+      "value": "Maybe",
+      "proof": ""
+    },
+    "OE.3.A": {
+      "value": "Maybe",
+      "proof": ""
+    },
+    "OE.3.B": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "IM.2.A": {
+      "value": "No",
+      "proof": ""
+    }
   }
 }

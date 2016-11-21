@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "team": "SAMM - Team A"
+    "team": "SAMM - Level 2"
   },
   "activities": {
     "SM.1.A": {
@@ -8,23 +8,23 @@
       "proof": ""
     },
     "SM.1.B": {
-      "value": "No",
+      "value": "Yes",
       "proof": ""
     },
     "SM.1.C": {
-      "value": "NA",
+      "value": "Yes",
       "proof": ""
     },
     "SM.2.A": {
-      "value": "Maybe",
+      "value": "Yes",
       "proof": ""
     },
     "SM.2.B": {
-      "value": "NA",
+      "value": "Yes",
       "proof": ""
     },
     "SM.2.C": {
-      "value": "No",
+      "value": "Yes",
       "proof": ""
     },
     "SM.3.A": {
@@ -32,23 +32,23 @@
       "proof": ""
     },
     "SM.3.B": {
-      "value": "No",
+      "value": "Yes",
       "proof": ""
     },
     "PC.1.A": {
-      "value": "NA",
+      "value": "Yes",
       "proof": ""
     },
     "PC.1.B": {
-      "value": "Maybe",
+      "value": "Yes",
       "proof": ""
     },
     "PC.2.A": {
-      "value": "NA",
+      "value": "Yes",
       "proof": ""
     },
     "PC.2.B": {
-      "value": "No",
+      "value": "Yes",
       "proof": ""
     },
     "PC.3.A": {
@@ -56,11 +56,11 @@
       "proof": ""
     },
     "PC.3.B": {
-      "value": "No",
+      "value": "Yes",
       "proof": ""
     },
     "EG.1.A": {
-      "value": "NA",
+      "value": "Yes",
       "proof": ""
     },
     "EG.1.B": {
@@ -68,11 +68,11 @@
       "proof": ""
     },
     "EG.2.A": {
-      "value": "NA",
+      "value": "Yes",
       "proof": ""
     },
     "EG.2.B": {
-      "value": "No",
+      "value": "Yes",
       "proof": ""
     },
     "EG.3.A": {
@@ -80,23 +80,23 @@
       "proof": ""
     },
     "EG.3.B": {
-      "value": "No",
+      "value": "Yes",
       "proof": ""
     },
     "TA.1.A": {
-      "value": "NA",
+      "value": "Yes",
       "proof": ""
     },
     "TA.1.B": {
-      "value": "Maybe",
+      "value": "Yes",
       "proof": ""
     },
     "TA.2.A": {
-      "value": "NA",
+      "value": "Yes",
       "proof": ""
     },
     "TA.2.B": {
-      "value": "No",
+      "value": "Yes",
       "proof": ""
     },
     "TA.2.C": {
@@ -104,23 +104,23 @@
       "proof": ""
     },
     "TA.3.A": {
-      "value": "No",
+      "value": "Yes",
       "proof": ""
     },
     "TA.3.B": {
-      "value": "NA",
+      "value": "Yes",
       "proof": ""
     },
     "SR.1.A": {
-      "value": "Maybe",
+      "value": "Yes",
       "proof": ""
     },
     "SR.1.B": {
-      "value": "NA",
+      "value": "Yes",
       "proof": ""
     },
     "SR.2.A": {
-      "value": "No",
+      "value": "Yes",
       "proof": ""
     },
     "SR.2.B": {
@@ -128,11 +128,11 @@
       "proof": ""
     },
     "SR.3.A": {
-      "value": "No",
+      "value": "Yes",
       "proof": ""
     },
     "SR.3.B": {
-      "value": "NA",
+      "value": "Yes",
       "proof": ""
     },
     "SA.1.A": {
@@ -140,11 +140,11 @@
       "proof": ""
     },
     "SA.1.B": {
-      "value": "NA",
+      "value": "Yes",
       "proof": ""
     },
     "SA.2.A": {
-      "value": "No",
+      "value": "Yes",
       "proof": ""
     },
     "SA.2.B": {
@@ -152,23 +152,23 @@
       "proof": ""
     },
     "SA.3.A": {
-      "value": "No",
+      "value": "Yes",
       "proof": ""
     },
     "SA.3.B": {
-      "value": "NA",
+      "value": "Yes",
       "proof": ""
     },
     "DR.1.A": {
-      "value": "Maybe",
+      "value": "Yes",
       "proof": ""
     },
     "DR.1.B": {
-      "value": "NA",
+      "value": "Yes",
       "proof": ""
     },
     "DR.2.A": {
-      "value": "No",
+      "value": "Yes",
       "proof": ""
     },
     "DR.2.B": {
@@ -176,15 +176,15 @@
       "proof": ""
     },
     "DR.3.A": {
-      "value": "No",
+      "value": "Yes",
       "proof": ""
     },
     "DR.3.B": {
-      "value": "NA",
+      "value": "Yes",
       "proof": ""
     },
     "IR.1.A": {
-      "value": "Maybe",
+      "value": "Yes",
       "proof": ""
     },
     "IR.1.B": {
@@ -192,7 +192,7 @@
       "proof": ""
     },
     "IR.2.A": {
-      "value": "No",
+      "value": "Yes",
       "proof": ""
     },
     "IR.2.B": {
@@ -200,23 +200,23 @@
       "proof": ""
     },
     "IR.3.A": {
-      "value": "No",
+      "value": "Yes",
       "proof": ""
     },
     "IR.3.B": {
-      "value": "NA",
+      "value": "Yes",
       "proof": ""
     },
     "ST.1.A": {
-      "value": "Maybe",
+      "value": "Yes",
       "proof": ""
     },
     "ST.1.B": {
-      "value": "NA",
+      "value": "Yes",
       "proof": ""
     },
     "ST.1.C": {
-      "value": "No",
+      "value": "Yes",
       "proof": ""
     },
     "ST.2.A": {
@@ -224,23 +224,23 @@
       "proof": ""
     },
     "ST.2.B": {
-      "value": "No",
+      "value": "Yes",
       "proof": ""
     },
     "ST.3.A": {
-      "value": "NA",
+      "value": "Yes",
       "proof": ""
     },
     "ST.3.B": {
-      "value": "Maybe",
+      "value": "Yes",
       "proof": ""
     },
     "IM.1.A": {
-      "value": "NA",
+      "value": "Yes",
       "proof": ""
     },
     "IM.1.B": {
-      "value": "No",
+      "value": "Yes",
       "proof": ""
     },
     "IM.1.C": {
@@ -248,7 +248,7 @@
       "proof": ""
     },
     "IM.2.B": {
-      "value": "No",
+      "value": "Yes",
       "proof": ""
     },
     "IM.2.C": {
@@ -256,15 +256,15 @@
       "proof": ""
     },
     "IM.3.A": {
-      "value": "Maybe",
+      "value": "Yes",
       "proof": ""
     },
     "IM.3.B": {
-      "value": "NA",
+      "value": "Yes",
       "proof": ""
     },
     "EH.1.A": {
-      "value": "No",
+      "value": "Yes",
       "proof": ""
     },
     "EH.1.B": {
@@ -272,23 +272,23 @@
       "proof": ""
     },
     "EH.2.A": {
-      "value": "No",
+      "value": "Yes",
       "proof": ""
     },
     "EH.2.B": {
-      "value": "NA",
+      "value": "Yes",
       "proof": ""
     },
     "EH.3.A": {
-      "value": "Maybe",
+      "value": "Yes",
       "proof": ""
     },
     "EH.3.B": {
-      "value": "NA",
+      "value": "Yes",
       "proof": ""
     },
     "OE.1.A": {
-      "value": "No",
+      "value": "Yes",
       "proof": ""
     },
     "OE.1.B": {
@@ -296,23 +296,23 @@
       "proof": ""
     },
     "OE.2.A": {
-      "value": "No",
+      "value": "Yes",
       "proof": ""
     },
     "OE.2.B": {
-      "value": "NA",
+      "value": "Yes",
       "proof": ""
     },
     "OE.3.A": {
-      "value": "Maybe",
+      "value": "Yes",
       "proof": ""
     },
     "OE.3.B": {
-      "value": "NA",
+      "value": "Yes",
       "proof": ""
     },
     "IM.2.A": {
-      "value": "No",
+      "value": "Yes",
       "proof": ""
     }
   }
