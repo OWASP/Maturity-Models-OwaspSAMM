@@ -1,4 +1,18 @@
 {
+  "config": {
+    "schema" : "OwaspSAMM",
+    "version": "x"
+  },
+  "metadata": [
+    "team",
+    "security-champion",
+    "source-code-repo",
+    "issue-tracking",
+    "wiki",
+    "ci-server",
+    "created-by",
+    "hide-from-stats"
+  ],
   "domains":
   {
     "Governance"                     : { "practices": ["Strategy & Metrics"  , "Policy & Compliance"   , "Education & Guidance"                                       ]},

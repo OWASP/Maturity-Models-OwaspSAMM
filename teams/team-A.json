@@ -1,6 +1,13 @@
 {
   "metadata": {
-    "team": "SAMM - Team A"
+    "team": "SAMM - Team A",
+    "security-champion": "",
+    "source-code-repo": "",
+    "issue-tracking": "",
+    "wiki": "",
+    "ci-server": "",
+    "created-by": "",
+    "hide-from-stats": ""
   },
   "activities": {
     "SM.1.A": {

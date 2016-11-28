@@ -1,6 +1,13 @@
 {
   "metadata": {
-    "team": "SAMM - Level 2"
+    "team": "SAMM - Level 2",
+    "security-champion": "",
+    "source-code-repo": "",
+    "issue-tracking": "",
+    "wiki": "",
+    "ci-server": "",
+    "created-by": "",
+    "hide-from-stats": "yes"
   },
   "activities": {
     "SM.1.A": {
