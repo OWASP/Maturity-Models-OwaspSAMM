@@ -18,7 +18,7 @@
     "Governance"                     : { "practices": ["Strategy & Metrics"  , "Policy & Compliance"   , "Education & Guidance"                                       ]},
     "Construction"                   : { "practices": ["Threat Assessment"   , "Security Requirements" , "Secure Architecture"                                        ]},
     "Verification"                   : { "practices": ["Design Review"       , "Implementation Review" , "Security Testing"                                           ]},
-    "Opererations"                   : { "practices": ["Issue Management"    , "Environment Hardening" , "Operational Enablement"                                     ]}
+    "Operations"                     : { "practices": ["Issue Management"    , "Environment Hardening" , "Operational Enablement"                                     ]}
   },
   "practices":
   {
