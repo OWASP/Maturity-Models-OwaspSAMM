@@ -39,7 +39,7 @@
       "proof": ""
     },
     "SM.3.B": {
-      "value": "No",
+      "value": "Yes",
       "proof": ""
     },
     "PC.1.A": {
@@ -51,11 +51,11 @@
       "proof": ""
     },
     "PC.2.A": {
-      "value": "NA",
+      "value": "Yes",
       "proof": ""
     },
     "PC.2.B": {
-      "value": "No",
+      "value": "Yes",
       "proof": ""
     },
     "PC.3.A": {
@@ -63,7 +63,7 @@
       "proof": ""
     },
     "PC.3.B": {
-      "value": "No",
+      "value": "Yes",
       "proof": ""
     },
     "EG.1.A": {
@@ -75,11 +75,11 @@
       "proof": ""
     },
     "EG.2.A": {
-      "value": "NA",
+      "value": "Yes",
       "proof": ""
     },
     "EG.2.B": {
-      "value": "No",
+      "value": "Yes",
       "proof": ""
     },
     "EG.3.A": {
@@ -87,7 +87,7 @@
       "proof": ""
     },
     "EG.3.B": {
-      "value": "No",
+      "value": "Yes",
       "proof": ""
     },
     "TA.1.A": {
@@ -99,11 +99,11 @@
       "proof": ""
     },
     "TA.2.A": {
-      "value": "NA",
+      "value": "Yes",
       "proof": ""
     },
     "TA.2.B": {
-      "value": "No",
+      "value": "Yes",
       "proof": ""
     },
     "TA.2.C": {
@@ -111,7 +111,7 @@
       "proof": ""
     },
     "TA.3.A": {
-      "value": "No",
+      "value": "Yes",
       "proof": ""
     },
     "TA.3.B": {
@@ -127,7 +127,7 @@
       "proof": ""
     },
     "SR.2.A": {
-      "value": "No",
+      "value": "Yes",
       "proof": ""
     },
     "SR.2.B": {
@@ -143,11 +143,11 @@
       "proof": ""
     },
     "SA.1.A": {
-      "value": "Maybe",
+      "value": "Yes",
       "proof": ""
     },
     "SA.1.B": {
-      "value": "NA",
+      "value": "Yes",
       "proof": ""
     },
     "SA.2.A": {
@@ -167,11 +167,11 @@
       "proof": ""
     },
     "DR.1.A": {
-      "value": "Maybe",
+      "value": "Yes",
       "proof": ""
     },
     "DR.1.B": {
-      "value": "NA",
+      "value": "Yes",
       "proof": ""
     },
     "DR.2.A": {
@@ -271,7 +271,7 @@
       "proof": ""
     },
     "EH.1.A": {
-      "value": "No",
+      "value": "Yes",
       "proof": ""
     },
     "EH.1.B": {
@@ -295,7 +295,7 @@
       "proof": ""
     },
     "OE.1.A": {
-      "value": "No",
+      "value": "Yes",
       "proof": ""
     },
     "OE.1.B": {
