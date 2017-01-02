@@ -1,7 +1,7 @@
 {
   "metadata": {
     "team": "SAMM - Team A",
-    "security-champion": "",
+    "security-champion": "John Smith",
     "source-code-repo": "",
     "issue-tracking": "",
     "wiki": "",
@@ -12,15 +12,15 @@
   "activities": {
     "SM.1.A": {
       "value": "Yes",
-      "proof": ""
+      "proof": "proof for SM.1.A"
     },
     "SM.1.B": {
       "value": "No",
-      "proof": ""
+      "proof": "proof for SM.1.B"
     },
     "SM.1.C": {
       "value": "NA",
-      "proof": ""
+      "proof": "proof for SM.1.C"
     },
     "SM.2.A": {
       "value": "Maybe",
@@ -36,7 +36,7 @@
     },
     "SM.3.A": {
       "value": "Yes",
-      "proof": ""
+      "proof": "see wiki"
     },
     "SM.3.B": {
       "value": "No",
@@ -44,11 +44,11 @@
     },
     "PC.1.A": {
       "value": "NA",
-      "proof": ""
+      "proof": "aaaaa"
     },
     "PC.1.B": {
       "value": "Maybe",
-      "proof": ""
+      "proof": "bbbbb"
     },
     "PC.2.A": {
       "value": "NA",
@@ -60,7 +60,7 @@
     },
     "PC.3.A": {
       "value": "Yes",
-      "proof": ""
+      "proof": "every 6 months"
     },
     "PC.3.B": {
       "value": "No",
@@ -68,11 +68,11 @@
     },
     "EG.1.A": {
       "value": "NA",
-      "proof": ""
+      "proof": "ccccc"
     },
     "EG.1.B": {
       "value": "Yes",
-      "proof": ""
+      "proof": "proof for EG.1.B"
     },
     "EG.2.A": {
       "value": "NA",
@@ -144,7 +144,7 @@
     },
     "SA.1.A": {
       "value": "Yes",
-      "proof": ""
+      "proof": "proof for SA.1.A"
     },
     "SA.1.B": {
       "value": "NA",
@@ -196,7 +196,7 @@
     },
     "IR.1.B": {
       "value": "Yes",
-      "proof": ""
+      "proof": "more notes"
     },
     "IR.2.A": {
       "value": "No",
@@ -252,7 +252,7 @@
     },
     "IM.1.C": {
       "value": "Yes",
-      "proof": ""
+      "proof": "See regular email trails"
     },
     "IM.2.B": {
       "value": "No",
