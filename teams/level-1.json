@@ -18,19 +18,11 @@
       "value": "Yes",
       "proof": ""
     },
-    "SM.1.C": {
-      "value": "Yes",
-      "proof": ""
-    },
     "SM.2.A": {
       "value": "No",
       "proof": ""
     },
     "SM.2.B": {
-      "value": "No",
-      "proof": ""
-    },
-    "SM.2.C": {
       "value": "No",
       "proof": ""
     },
@@ -103,10 +95,6 @@
       "proof": ""
     },
     "TA.2.B": {
-      "value": "No",
-      "proof": ""
-    },
-    "TA.2.C": {
       "value": "No",
       "proof": ""
     },
@@ -222,10 +210,6 @@
       "value": "Yes",
       "proof": ""
     },
-    "ST.1.C": {
-      "value": "Yes",
-      "proof": ""
-    },
     "ST.2.A": {
       "value": "No",
       "proof": ""
@@ -250,16 +234,12 @@
       "value": "Yes",
       "proof": ""
     },
-    "IM.1.C": {
-      "value": "Yes",
+    "IM.2.A": {
+      "value": "No",
       "proof": ""
     },
     "IM.2.B": {
       "value": "No",
-      "proof": ""
-    },
-    "IM.2.C": {
-      "value": "NA",
       "proof": ""
     },
     "IM.3.A": {
@@ -315,10 +295,6 @@
       "proof": ""
     },
     "OE.3.B": {
-      "value": "No",
-      "proof": ""
-    },
-    "IM.2.A": {
       "value": "No",
       "proof": ""
     }
