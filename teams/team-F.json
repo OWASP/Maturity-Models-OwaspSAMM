@@ -43,8 +43,8 @@
       "proof": ""
     },
     "PC.1.A": {
-      "value": "Maybe",
-      "proof": ""
+      "value": "Yes",
+      "proof": "See JIRA Risk register"
     },
     "PC.1.B": {
       "value": "Maybe",
