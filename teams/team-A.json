@@ -11,20 +11,20 @@
   },
   "activities": {
     "SM.1.A": {
-      "value": "Yes",
-      "proof": "proof for SM.1.A"
+      "proof": "Mandatory by policy",
+      "value": 1
     },
     "SM.1.B": {
-      "value": "No",
-      "proof": "proof for SM.1.B"
+      "value": 0.33,
+      "proof": "not all teams do this"
     },
     "SM.1.C": {
       "value": "NA",
       "proof": "proof for SM.1.C"
     },
     "SM.2.A": {
-      "value": "Maybe",
-      "proof": ""
+      "proof": "see abc",
+      "value": -1
     },
     "SM.2.B": {
       "value": "NA",

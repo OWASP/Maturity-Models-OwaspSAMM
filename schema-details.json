@@ -3,16 +3,37 @@
     "SM.1.A": {
       "description": "Interview business owners and stakeholders and create a list of worst-case scenarios across the organization’s various application and data assets.  Based on the way in which your organization builds, uses, or sells software, the list of worst-case scenarios can vary widely, but common issues include data theft or corruption, service outages, monetary loss, reverse engineering, account compromise, etc. After broadly capturing worst-case scenario ideas, collate and select the most important based on collected information and knowledge about the core business.  Any number can be selected, but aim for at least 3 and no more than 7 to make efficient use of time and keep the exercise focused. Elaborate a description of each of the selected items and document details of contributing worst-case scenarios, potential contributing factors, and potential mitigating factors for the organization. The final business risk profile should be reviewed with business owners and other stakeholders for understanding.",
       "objective"  : "Establish unifed strategic roadmap for software security within the organization",
+      "answers"    : [
+                        { "text":"All do" , "value": 1.00 },
+                        { "text":"Most do", "value": 0.66 },
+                        { "text":"Some do", "value": 0.33 },
+                        { "text":"None"   , "value": 0.00 },
+                        { "text":"Maybe"  , "value": 0.80 },
+                        { "text":"NA"     , "value": -1   }],
       "proof"      : "Do the business stakeholders understand your organization’s risk profile?"
     },
     "SM.1.B": {
       "description": "Understanding the main business risks to the organization, evaluate the current performance of the organization against each the twelve Practices. Assign a score for each Practice from 1, 2, or 3 based on the corresponding Objective if the organization passes all the cumulative success metrics. If no success metrics are being met, assign a score of 0 to the Practice. Once a good understanding of current status is obtained, the next goal is to identify the Practices that will be improved in the next iteration. Select them based on business risk profile, other business drivers, compliance requirements, budget tolerance, etc. Once Practices are selected, the goals of the iteration are to achieve the next Objective under each. Iterations of improvement on the assurance program should be approximately 3-6 months, but an assurance strategy session should take place at least every 3 months to review progress on activities, performance against success metrics and other business drivers that may require program changes.",
       "objective"  : "Establish unified strategic roadmap for software security within the organization",
+      "answers"    : [
+                        { "text":"All do" , "value": 1.00 },
+                        { "text":"Most do", "value": 0.66 },
+                        { "text":"Some do", "value": 0.33 },
+                        { "text":"None"   , "value": 0.00 },
+                        { "text":"Maybe"  , "value": 0.80 },
+                        { "text":"NA"     , "value": -1   }],
       "proof"      : "Is there a software security assurance program in place? Are development staff aware of future plans for the assurance program?"
     },
     "SM.2.A": {
       "description": "Establish a simple classification system to represent risk-tiers for applications.  In its simplest form, this can be a High/Medium/Low categorization.  More sophisticated classifications can be used, but there should be no more than seven categories and they should roughly represent a gradient from high to low impact against business risks.   Working from the organization’s business risk profile, create project evaluation criteria that maps each project to one of the risk categories.  A similar but separate classification scheme should be created for data assets and each item should be weighted and categorized based on potential impact to business risks. Evaluate collected information about each application and assign each a risk category based upon overall evaluation criteria and the risk categories of data assets in use.  This can be done centrally by a security group or by individual project teams through a customized questionnaire to gather the requisite information. An ongoing process for application and data asset risk categorization should be established to assign categories to new assets and keep the existing information updated at least biannually.",
       "objective"  : "Measure relative value of data and software assets and choose risk tolerance",
+      "answers"    : [
+                        { "text":"All do" , "value": 1.00 },
+                        { "text":"Most do", "value": 0.66 },
+                        { "text":"Some do", "value": 0.33 },
+                        { "text":"None"   , "value": 0.00 },
+                        { "text":"Maybe"  , "value": 0.80 },
+                        { "text":"NA"     , "value": -1   }],
       "proof"      : "Are many of your applications and resources categorized by risk?"
     },
     "SM.2.B": {
