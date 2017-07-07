@@ -7,9 +7,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Do the business stakeholders understand your organization’s risk profile?"
     },
     "SM.1.B": {
@@ -19,9 +17,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Is there a software security assurance program in place? Are development staff aware of future plans for the assurance program?"
     },
     "SM.2.A": {
@@ -31,9 +27,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Are many of your applications and resources categorized by risk?"
     },
     "SM.2.B": {
@@ -43,9 +37,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Are risk ratings used to tailor the required assurance activities?"
     },
     "SM.3.A": {
@@ -55,9 +47,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Is per-project data for the cost of assurance activities collected?"
     },
     "SM.3.B": {
@@ -67,9 +57,7 @@
                         { "text":"We do it annually" , "value": 1.00 },
                         { "text":"We do it every few years", "value": 0.66 },
                         { "text":"We did it once", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Does your organization regularly compare your security spend with that of other organizations?"
     },
     "PC.1.A": {
@@ -79,9 +67,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Do project stakeholders know their project’s compliance status?"
     },
     "PC.1.B": {
@@ -91,9 +77,7 @@
                         { "text":"Yes" , "value": 1.00 },
                         { "text":"Yes, on an adhoc basis", "value": 0.66 },
                         { "text":"No, it is not applicable", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Are compliance requirements specifically considered by project teams?"
     },
     "PC.2.A": {
@@ -103,9 +87,7 @@
                         { "text":"Yes, the standard is set and integrated" , "value": 1.00 },
                         { "text":"Yes, there is a standard set", "value": 0.66 },
                         { "text":"Yes, teams write/run their own", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Does the organization utilize a set of policies and standards to control software development?"
     },
     "PC.2.B": {
@@ -115,9 +97,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Are project teams able to request an audit for compliance with policies and standards?"
     },
     "PC.3.A": {
@@ -127,9 +107,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Are projects periodically audited to ensure a baseline of compliance with policies and standards?"
     },
     "PC.3.B": {
@@ -139,9 +117,7 @@
                         { "text":"Yes, accross the organization and required" , "value": 1.00 },
                         { "text":"Yes, accross the organization", "value": 0.66 },
                         { "text":"Yes, localized to business areas", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Does the organization systematically use audits to collect and control compliance evidence?"
     },
     "EG.1.A": {
@@ -151,9 +127,7 @@
                         { "text":"We do it annually" , "value": 1.00 },
                         { "text":"We do it every few years", "value": 0.66 },
                         { "text":"We did it once", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Have developers been given high-level security awareness training?"
     },
     "EG.1.B": {
@@ -163,9 +137,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Does each project team understand where to find secure development best-practices and guidance?"
     },
     "EG.2.A": {
@@ -175,9 +147,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Are those involved in the development process given role-specific security training and guidance?"
     },
     "EG.2.B": {
@@ -187,9 +157,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Are stakeholders able to pull in security coaches for use on projects?"
     },
     "EG.3.A": {
@@ -199,9 +167,7 @@
                         { "text":"Yes, the standard is set and integrated" , "value": 1.00 },
                         { "text":"Yes, there is a standard set", "value": 0.66 },
                         { "text":"Yes, teams write/run their own", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Is security-related guidance centrally controlled and consistently distributed throughout the organization?"
     },
     "EG.3.B": {
@@ -211,9 +177,7 @@
                         { "text":"We do it annually" , "value": 1.00 },
                         { "text":"We do it every few years", "value": 0.66 },
                         { "text":"We did it once", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Are developers tested to ensure a baseline skill-set for secure development practices?"
     },
     "TA.1.A": {
@@ -223,9 +187,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Do projects in your organization consider and document likely threats?"
     },
     "TA.1.B": {
@@ -235,9 +197,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Does your organization understand and document the types of attackers it faces?"
     },
     "TA.2.A": {
@@ -247,9 +207,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Do project teams regularly analyze functional requirements for likely abuses?"
     },
     "TA.2.B": {
@@ -259,9 +217,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Do project teams use a method of rating threats for relative comparison?"
     },
     "TA.3.A": {
@@ -271,9 +227,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Do project teams specifically consider risk from external software?"
     },
     "TA.3.B": {
@@ -283,9 +237,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Are the majority of the protection mechanisms and controls captured and mapped back to threats?"
     },
     "SR.1.A": {
@@ -295,9 +247,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Do project teams specify security requirements during development?"
     },
     "SR.1.B": {
@@ -307,9 +257,7 @@
                         { "text":"Yes, the standard is set and integrated" , "value": 1.00 },
                         { "text":"Yes, there is a standard set", "value": 0.66 },
                         { "text":"Yes, teams write/run their own", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Do project teams pull requirements from best practices and compliance guidance?"
     },
     "SR.2.A": {
@@ -319,9 +267,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Do stakeholders review access control matrices for relevant projects?"
     },
     "SR.2.B": {
@@ -331,9 +277,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Do project teams specify requirements based on feedback from other security activities?"
     },
     "SR.3.A": {
@@ -343,9 +287,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Do stakeholders review vendor agreements for security requirements?"
     },
     "SR.3.B": {
@@ -355,9 +297,7 @@
                         { "text":"We do it annually" , "value": 1.00 },
                         { "text":"We do it every few years", "value": 0.66 },
                         { "text":"We did it once", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Are audits performed against the security requirements specified by project teams?"
     },
     "SA.1.A": {
@@ -367,9 +307,7 @@
                         { "text":"Yes, the standard is set and integrated" , "value": 1.00 },
                         { "text":"Yes, there is a standard set", "value": 0.66 },
                         { "text":"Yes, teams write/run their own", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Are project teams provided with a list of recommended third-party components?"
     },
     "SA.1.B": {
@@ -379,9 +317,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Are project teams aware of secure design principles and do they apply them consistently?"
     },
     "SA.2.A": {
@@ -391,9 +327,7 @@
                         { "text":"Yes, accross the organization and required" , "value": 1.00 },
                         { "text":"Yes, accross the organization", "value": 0.66 },
                         { "text":"Yes, localized to business areas", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Do you advertise shared security services with guidance for project teams?"
     },
     "SA.2.B": {
@@ -403,9 +337,7 @@
                         { "text":"Yes, the standard is set and integrated" , "value": 1.00 },
                         { "text":"Yes, there is a standard set", "value": 0.66 },
                         { "text":"Yes, teams write/run their own", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Are project teams provided with prescriptive design patterns based on their application architecture?"
     },
     "SA.3.A": {
@@ -415,9 +347,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Do project teams build software from centrally-controlled platforms and frameworks?"
     },
     "SA.3.B": {
@@ -427,9 +357,7 @@
                         { "text":"We do it annually" , "value": 1.00 },
                         { "text":"We do it every few years", "value": 0.66 },
                         { "text":"We did it once", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Are project teams audited for the use of secure architecture components?"
     },
     "DR.1.A": {
@@ -439,9 +367,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Do project teams document the attack perimeter of software designs?"
     },
     "DR.1.B": {
@@ -451,9 +377,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Do project teams check software designs against known security risks?"
     },
     "DR.2.A": {
@@ -463,9 +387,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Do project teams specifically analyze design elements for security mechanisms?"
     },
     "DR.2.B": {
@@ -475,9 +397,7 @@
                         { "text":"Yes, most of them are aware" , "value": 1.00 },
                         { "text":"Yes, approx. half of them are aware", "value": 0.66 },
                         { "text":"Yes, some of them are aware", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Are project stakeholders aware of how to obtain a formal secure design review?"
     },
     "DR.3.A": {
@@ -487,9 +407,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Does the secure design review process incorporate detailed data-level analysis?"
     },
     "DR.3.B": {
@@ -499,9 +417,7 @@
                         { "text":"Yes, the standard is set and integrated" , "value": 1.00 },
                         { "text":"Yes, there is a standard set", "value": 0.66 },
                         { "text":"Yes, teams write/run their own", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Does a minimum security baseline exist for secure design review results?"
     },
     "IR.1.A": {
@@ -511,9 +427,7 @@
                         { "text":"Yes, accross the organization and required" , "value": 1.00 },
                         { "text":"Yes, accross the organization", "value": 0.66 },
                         { "text":"Yes, localized to business areas", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Do project teams have review checklists based on common security related problems?"
     },
     "IR.1.B": {
@@ -523,9 +437,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Do project teams review selected high-risk code?"
     },
     "IR.2.A": {
@@ -535,9 +447,7 @@
                         { "text":"Yes, the standard is set and integrated" , "value": 1.00 },
                         { "text":"Yes, there is a standard set", "value": 0.66 },
                         { "text":"Yes, teams write/run their own", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Can project teams access automated code analysis tools to find security problems?"
     },
     "IR.2.B": {
@@ -547,9 +457,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Do stakeholders consistently review results from code reviews?"
     },
     "IR.3.A": {
@@ -559,9 +467,7 @@
                         { "text":"Yes, accross the organization and required" , "value": 1.00 },
                         { "text":"Yes, accross the organization", "value": 0.66 },
                         { "text":"Yes, localized to business areas", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Do project teams utilize automation to check code against application-specific coding standards?"
     },
     "IR.3.B": {
@@ -571,9 +477,7 @@
                         { "text":"Yes, the standard is set and integrated" , "value": 1.00 },
                         { "text":"Yes, there is a standard set", "value": 0.66 },
                         { "text":"Yes, teams write/run their own", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Does a minimum security baseline exist for code review results?"
     },
     "ST.1.A": {
@@ -583,9 +487,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Do projects specify security testing based on defined security requirements?"
     },
     "ST.1.B": {
@@ -595,9 +497,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Is penetration testing performed on high risk projects prior to release?"
     },
     "ST.2.A": {
@@ -607,9 +507,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Do projects use automation to evaluate security test cases?"
     },
     "ST.2.B": {
@@ -619,9 +517,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Do projects follow a consistent process to evaluate and report on security tests to stakeholders?"
     },
     "ST.3.A": {
@@ -631,9 +527,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Are security test cases comprehensively generated for application-specific logic?"
     },
     "ST.3.B": {
@@ -643,9 +537,7 @@
                         { "text":"Yes, the standard is set and integrated" , "value": 1.00 },
                         { "text":"Yes, there is a standard set", "value": 0.66 },
                         { "text":"Yes, teams write/run their own", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Does a minimum security baseline exist for security testing? "
     },
     "IM.1.A": {
@@ -655,9 +547,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Do projects have a point of contact for security issues or incidents?"
     },
     "IM.1.B": {
@@ -667,9 +557,7 @@
                         { "text":"Yes, it's a pretty mature program" , "value": 1.00 },
                         { "text":"Yes, it's a number of years old", "value": 0.66 },
                         { "text":"Yes, it's less than a year old", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Does your organization have an assigned security response team?"
     },
     "IM.2.A": {
@@ -679,9 +567,7 @@
                         { "text":"Yes, accross the organization and required" , "value": 1.00 },
                         { "text":"Yes, accross the organization", "value": 0.66 },
                         { "text":"Yes, localized to business areas", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Does the organization utilize a consistent process for incident reporting and handling?"
     },
     "IM.2.B": {
@@ -691,9 +577,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Are project stakeholders aware of relevant security disclosures related to their software projects?"
     },
     "IM.3.A": {
@@ -703,9 +587,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Are incidents inspected for root causes to generate further recommendations?"
     },
     "IM.3.B": {
@@ -715,9 +597,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Do projects consistently collect and report data and metrics related to incidents?"
     },
     "EH.1.A": {
@@ -727,9 +607,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Do projects document operational environment security requirements?"
     },
     "EH.1.B": {
@@ -739,9 +617,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Do projects check for security updates to third-party software components?"
     },
     "EH.2.A": {
@@ -751,9 +627,7 @@
                         { "text":"Yes, accross the organization and required" , "value": 1.00 },
                         { "text":"Yes, accross the organization", "value": 0.66 },
                         { "text":"Yes, localized to business areas", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Is a consistent process used to apply upgrades and patches to critical dependencies?"
     },
     "EH.2.B": {
@@ -763,9 +637,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Do projects leverage automation to check application and environment health?"
     },
     "EH.3.A": {
@@ -775,9 +647,7 @@
                         { "text":"Yes, the standard is set and integrated" , "value": 1.00 },
                         { "text":"Yes, there is a standard set", "value": 0.66 },
                         { "text":"Yes, teams write/run their own", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Are stakeholders aware of options for additional tools to protect software while running in operations?"
     },
     "EH.3.B": {
@@ -787,9 +657,7 @@
                         { "text":"Yes, accross the organization and required" , "value": 1.00 },
                         { "text":"Yes, accross the organization", "value": 0.66 },
                         { "text":"Yes, localized to business areas", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Does a minimum security baseline exist for environment health (versioning, patching, etc)?"
     },
     "OE.1.A": {
@@ -799,9 +667,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Are security notes delivered with each software release?"
     },
     "OE.1.B": {
@@ -811,9 +677,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Are security-related alerts and error conditions documented on a per-project basis?"
     },
     "OE.2.A": {
@@ -823,9 +687,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Do projects utilize a change management process that’s well understood?"
     },
     "OE.2.B": {
@@ -835,9 +697,7 @@
                         { "text":"Yes, the majority of them are/do" , "value": 1.00 },
                         { "text":"Yes, at least half of them are/do", "value": 0.66 },
                         { "text":"Yes, a small percentage are/do", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Do project teams deliver an operational security guide with each product release?"
     },
     "OE.3.A": {
@@ -847,9 +707,7 @@
                         { "text":"We do it annually" , "value": 1.00 },
                         { "text":"We do it every few years", "value": 0.66 },
                         { "text":"We did it once", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Are project releases audited for appropriate operational security information?"
     },
     "OE.3.B": {
@@ -859,9 +717,7 @@
                         { "text":"Yes" , "value": 1.00 },
                         { "text":"Yes, on an adhoc basis", "value": 0.66 },
                         { "text":"No, it is not applicable", "value": 0.33 },
-                        { "text":"No"   , "value": 0.00 },
-                        { "text":"Maybe"  , "value": 0.80 },
-                        { "text":"NA"     , "value": -1   }],
+                        { "text":"None"   , "value": 0.00 }],
       "proof"      : "Is code signing routinely performed on software components using a consistent process?"
     }
 
