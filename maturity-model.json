@@ -1,5 +1,5 @@
 {
   "key"        : "samm",
-  "name"       : "OpenSAMM demo",
-  "description": "OpenSAMM test data"
+  "name"       : "OWASP SAMM",
+  "description": "OWASP SAMM 2.0"
 }
