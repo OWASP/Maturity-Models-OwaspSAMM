@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "team": "SAMM - Level 2",
+    "team": "SAMM - Level 3",
     "security-champion": "",
     "source-code-repo": "",
     "issue-tracking": "",
@@ -154,51 +154,123 @@
       "value": "Yes",
       "proof": ""
     },
-    "DR.1.A": {
+    "SB.1.A": {
       "value": "Yes",
       "proof": ""
     },
-    "DR.1.B": {
+    "SB.1.B": {
       "value": "Yes",
       "proof": ""
     },
-    "DR.2.A": {
+    "SB.2.A": {
       "value": "Yes",
       "proof": ""
     },
-    "DR.2.B": {
+    "SB.2.B": {
       "value": "Yes",
       "proof": ""
     },
-    "DR.3.A": {
+    "SB.3.A": {
       "value": "Yes",
       "proof": ""
     },
-    "DR.3.B": {
+    "SB.3.B": {
       "value": "Yes",
       "proof": ""
     },
-    "IR.1.A": {
+    "SD.1.A": {
       "value": "Yes",
       "proof": ""
     },
-    "IR.1.B": {
+    "SD.1.B": {
       "value": "Yes",
       "proof": ""
     },
-    "IR.2.A": {
+    "SD.2.A": {
       "value": "Yes",
       "proof": ""
     },
-    "IR.2.B": {
+    "SD.2.B": {
       "value": "Yes",
       "proof": ""
     },
-    "IR.3.A": {
+    "SD.3.A": {
       "value": "Yes",
       "proof": ""
     },
-    "IR.3.B": {
+    "SD.3.B": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "DM.1.A": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "DM.1.B": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "DM.2.A": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "DM.2.B": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "DM.3.A": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "DM.3.B": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "AA.1.A": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "AA.1.B": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "AA.2.A": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "AA.2.B": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "AA.3.A": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "AA.3.B": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "RT.1.A": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "RT.1.B": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "RT.2.A": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "RT.2.B": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "RT.3.A": {
+      "value": "Yes",
+      "proof": ""
+    },
+    "RT.3.B": {
       "value": "Yes",
       "proof": ""
     },
@@ -250,51 +322,51 @@
       "value": "Yes",
       "proof": ""
     },
-    "EH.1.A": {
+    "EM.1.A": {
       "value": "Yes",
       "proof": ""
     },
-    "EH.1.B": {
+    "EM.1.B": {
       "value": "Yes",
       "proof": ""
     },
-    "EH.2.A": {
+    "EM.2.A": {
       "value": "Yes",
       "proof": ""
     },
-    "EH.2.B": {
+    "EM.2.B": {
       "value": "Yes",
       "proof": ""
     },
-    "EH.3.A": {
+    "EM.3.A": {
       "value": "Yes",
       "proof": ""
     },
-    "EH.3.B": {
+    "EM.3.B": {
       "value": "Yes",
       "proof": ""
     },
-    "OE.1.A": {
+    "OM.1.A": {
       "value": "Yes",
       "proof": ""
     },
-    "OE.1.B": {
+    "OM.1.B": {
       "value": "Yes",
       "proof": ""
     },
-    "OE.2.A": {
+    "OM.2.A": {
       "value": "Yes",
       "proof": ""
     },
-    "OE.2.B": {
+    "OM.2.B": {
       "value": "Yes",
       "proof": ""
     },
-    "OE.3.A": {
+    "OM.3.A": {
       "value": "Yes",
       "proof": ""
     },
-    "OE.3.B": {
+    "OM.3.B": {
       "value": "Yes",
       "proof": ""
     }
